@@ -54,6 +54,7 @@ AML 학부연구생
 <li>ROS1</li>
 <li>OpenCV</li>
 <li>Ubuntu</li>
+<li>GX works2</li>
 </ul>
 
 <h2>🏆 Competitions & Conferences</h2>
