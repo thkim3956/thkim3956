@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+[<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20render&fontSize=90" />](https://capsule-render.vercel.app/api?type=venom&height=300&color=auto&text=Welcome%20to&section=header&reversal=false&fontAlign=50&desc=KTH's%20Github&descSize=50&descAlignY=74)
 
 <body>
 
