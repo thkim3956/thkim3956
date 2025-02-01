@@ -22,12 +22,6 @@ YouTube:
 June_LAB_youtube
 </a>
 </li>
-<li>
-Notion:
-<a href="[https://www.notion.so/June_LAB-149b0b46464880fca584f5f5b1a91380?pvs=4](https://www.notion.so/149b0b46464880fca584f5f5b1a91380?pvs=21)" target="_blank">
-June_LAB_Notion
-</a>
-</li>
 </ul>
 
 <h2>📚 Education</h2>
@@ -67,9 +61,11 @@ AML 학부연구생
 <li>한국공학대 - 아두이노 챌린지 (장려상)</li>
 <li>2023년 국제로봇콘테스트 - 씨름로봇 (본선)</li>
 <li>2024 메카이브 창직 메이커톤 (최우수)</li>
+<li>2024 Co-Data Station 데이터 활용 경진대회 (본선)</li>
 <li>2024년 국제로봇콘테스트 - 씨름로봇 (최우수)</li>
 <li>미래자동차 자율주행 경진대회 (장려상)</li>
 <li>한국생산제조학회 2024 추계학술대회</li>
+<li>제4회 지능형로봇 기술활용 아이디어 경진대회 (금상)</li>
 </ul>
 
 </body>
