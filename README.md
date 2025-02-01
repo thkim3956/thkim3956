@@ -10,7 +10,7 @@
 
 <h2>📫 Contact</h2>
 <ul>
-<li>Email: <a [href="mailto:thkim3956@naver.com](mailto:href=%22mailto:thkim3956@naver.com)">[thkim3956@naver.com](mailto:thkim3956@naver.com)</a></li>
+<li>Email: <a href="mailto:thkim3956@naver.com">thkim3956@naver.com</a></li>
 <li>Phone: 010-5576-3956</li>
 </ul>
 
