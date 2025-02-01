@@ -5,13 +5,13 @@
 
 <body>
 
-<h1>이준혁</h1>
+<h1>김태환</h1>
 <p>메카트로닉스 공학부 | 인공지능응용학전공</p>
 
 <h2>📫 Contact</h2>
 <ul>
-<li>Email: <a [href="mailto:leejh104@naver.com](mailto:href=%22mailto:leejh104@naver.com)">[leejh104@naver.com](mailto:leejh104@naver.com)</a></li>
-<li>Phone: 010-5240-2729</li>
+<li>Email: <a [href="mailto:thkim3956@naver.com](mailto:href=%22mailto:thkim3956@naver.com)">[thkim3956@naver.com](mailto:thkim3956@naver.com)</a></li>
+<li>Phone: 010-5576-3956</li>
 </ul>
 
 <h2>🖥️ SNS</h2>
