@@ -34,7 +34,7 @@ June_LAB_youtube
 <ul>
 <li>2021.05 - 2022.11: 육군 30기갑여단 311포병대대</li>
 <li>2023.02 - 2026.01: CIR 동아리 - 교육부장</li>
-<li>2023.12 - 2026.02: 
+<li>2023.12 - 2024.12: 
 <a href="http://aml.tukorea.ac.kr/" target="_blank">
 AML 학부연구생
 </li>
